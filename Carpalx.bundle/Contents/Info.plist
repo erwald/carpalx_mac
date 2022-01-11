@@ -10,6 +10,8 @@
 	<string>1.0</string>
 	<key>KLInfo_CarpalxQ</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.carpalx.carpalxq</string>
 		<key>TISIntendedLanguage</key>
@@ -17,6 +19,8 @@
 	</dict>
 	<key>KLInfo_DHRLWB</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.carpalx.dhrlwb</string>
 		<key>TISIntendedLanguage</key>
@@ -24,6 +28,8 @@
 	</dict>
 	<key>KLInfo_De Correspondent 1</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.carpalx.decorrespondent1</string>
 		<key>TISIntendedLanguage</key>
@@ -31,6 +37,8 @@
 	</dict>
 	<key>KLInfo_De Correspondent 2</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.carpalx.decorrespondent2</string>
 		<key>TISIntendedLanguage</key>
@@ -38,6 +46,8 @@
 	</dict>
 	<key>KLInfo_GYLMWP</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.carpalx.gylmwp</string>
 		<key>TISIntendedLanguage</key>
@@ -45,6 +55,8 @@
 	</dict>
 	<key>KLInfo_HDRLPW</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.carpalx.hdrlpw</string>
 		<key>TISIntendedLanguage</key>
@@ -52,6 +64,8 @@
 	</dict>
 	<key>KLInfo_Hogendoorn</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.carpalx.hogendoorn</string>
 		<key>TISIntendedLanguage</key>
@@ -59,6 +73,8 @@
 	</dict>
 	<key>KLInfo_JBKDMH</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.carpalx.jbkdmh</string>
 		<key>TISIntendedLanguage</key>
@@ -66,6 +82,8 @@
 	</dict>
 	<key>KLInfo_PBFMWJ</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.carpalx.pbfmwj</string>
 		<key>TISIntendedLanguage</key>
@@ -73,6 +91,8 @@
 	</dict>
 	<key>KLInfo_QFMLWY</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.carpalx.qfmlwy</string>
 		<key>TISIntendedLanguage</key>
@@ -80,6 +100,8 @@
 	</dict>
 	<key>KLInfo_QGMLWB</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.carpalx.qgmlwb</string>
 		<key>TISIntendedLanguage</key>
@@ -87,6 +109,8 @@
 	</dict>
 	<key>KLInfo_QGMLWY</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.carpalx.qgmlwy</string>
 		<key>TISIntendedLanguage</key>
@@ -94,6 +118,8 @@
 	</dict>
 	<key>KLInfo_QHRPBE</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.carpalx.qhrpbe</string>
 		<key>TISIntendedLanguage</key>
@@ -101,6 +127,8 @@
 	</dict>
 	<key>KLInfo_QWKRFY</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.carpalx.qwkrfy</string>
 		<key>TISIntendedLanguage</key>
@@ -108,6 +136,8 @@
 	</dict>
 	<key>KLInfo_QWYRFM</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.carpalx.qwyrfm</string>
 		<key>TISIntendedLanguage</key>
@@ -115,6 +145,8 @@
 	</dict>
 	<key>KLInfo_TNWMLC</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.carpalx.tnwmlc</string>
 		<key>TISIntendedLanguage</key>
@@ -122,6 +154,8 @@
 	</dict>
 	<key>KLInfo_VURPYF</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.carpalx.vurpyf</string>
 		<key>TISIntendedLanguage</key>
@@ -129,6 +163,8 @@
 	</dict>
 	<key>KLInfo_WHRPBF</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.carpalx.whrpbf</string>
 		<key>TISIntendedLanguage</key>
